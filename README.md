@@ -26,3 +26,7 @@
 
 
 ![ScreenShot](screens/3.PNG)
+
+![ScreenShot](screens/1.PNG)
+
+![ScreenShot](screens/2.PNG)
