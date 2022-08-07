@@ -25,4 +25,4 @@
 Перелік можливих __*статусів*__: ```app_status.py```
 
 
-![ScreenShot](https://raw.githubusercontent.com/screens/3.png)
+![ScreenShot](/screens/3.png)
