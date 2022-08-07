@@ -25,4 +25,4 @@
 Перелік можливих __*статусів*__: ```app_status.py```
 
 
-![ScreenShot](/screens/3.png)
+![ScreenShot](screens/1.PNG)
